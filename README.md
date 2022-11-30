@@ -2,7 +2,7 @@
 
 📝 I am a Danish data journalist and current data journalism student at Columbia Graduate School of Journalism. 
 
-💡 I’m interested in politics, polls, education, inequality and other social issues. And DATA!
+💡 I’m interested in politics, political behavior, polling, education, inequality and other social issues. And DATA!
 
 🌱 I’m currently learning python, pandas, scraping, R, HTML and other lovely conding stuff for journalistic data analysis!
 

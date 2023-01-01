@@ -4,7 +4,7 @@
 
 💡 I’m interested in politics, political behavior, polling, education, inequality and other social issues. And DATA!
 
-🌱 I’m currently learning python, pandas, scraping, R, HTML and other lovely conding tools for journalistic data analysis!
+🌱 I’m currently learning python, pandas, scraping, R, HTML and other coding tools for journalistic data analysis!
 
 🌻 This GitHub is a combination of school projects and other things I find interesting! Take a look 
 

@@ -14,6 +14,8 @@
 
 📩 You can reach me on lj2569@columbia.edu
 
+<a href="mailto:lj2569@columbia.edu?subject=[GitHub]%20
+
 
   <!-- GitHub section -->
 

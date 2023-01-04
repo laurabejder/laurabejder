@@ -1,8 +1,8 @@
 ## ✨ Hi, I’m @laurabejder ✨
 
-[![Twitter: laurabejder](https://img.shields.io/twitter/follow/laurabejder?style=social)](https://twitter.com/laurabejder)
 [![Linkedin: Laura Bejder Jensen](https://img.shields.io/badge/-laura-bejder-jensen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//laura-bejder-jensen/)](https://www.linkedin.com/in//laura-bejder-jensen/)
-[![GitHub Laura Bejder](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Laura Bejder](https://img.shields.io/github/followers/laurabejder?label=follow&style=social)](https://github.com/laurabejder)
+[![Twitter: laurabejder](https://img.shields.io/twitter/follow/laurabejder?style=social)](https://twitter.com/laurabejder)
 
 📝 I am a Danish data journalist and current data journalism student at Columbia Graduate School of Journalism. 
 

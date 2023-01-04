@@ -1,6 +1,11 @@
 ## ✨ Hi, I’m @laurabejder ✨
 
-[![Linkedin: Laura Bejder Jensen](https://img.shields.io/badge/-laura-bejder-jensen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//laura-bejder-jensen/)]([https://www.linkedin.com/in//laura-bejder-jensen/](https://www.linkedin.com/in/laura-bejder-jensen-812536171/))
+[![Linkedin: Laura Bejder Jensen](https://img.shields.io/badge/-laura-bejder-jensen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-bejder-jensen-812536171/)](https://www.linkedin.com/in/laura-bejder-jensen-812536171/))
+
+
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+
+
 [![GitHub Laura Bejder](https://img.shields.io/github/followers/laurabejder?label=follow&style=social)](https://github.com/laurabejder)
 [![Twitter: laurabejder](https://img.shields.io/twitter/follow/laurabejder?style=social)](https://twitter.com/laurabejder)
 

@@ -1,6 +1,6 @@
 ## ✨ Hi, I’m @laurabejder ✨
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/laura-bejder-jensen-812536171/)
+[![Linkedin: Laura Bejder Jensen](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/laura-bejder-jensen-812536171/)
 
 
 [![GitHub Laura Bejder](https://img.shields.io/github/followers/laurabejder?label=follow&style=social)](https://github.com/laurabejder)

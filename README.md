@@ -6,6 +6,8 @@
 
 🌱 I’m currently learning python, pandas, scraping, R, HTML and other coding tools for journalistic data analysis!
 
+🛠 I love building auto-scrapers and databases. Take a look at my continuously updating datasets of [European energy prices](https://github.com/laurabejder/european_energy_prices) and [Danish court cases](https://github.com/laurabejder/danish-court-cases) or this [database of the senate votes for all appointed U.S. Circuit Court Judges](https://github.com/laurabejder?tab=repositories) from 2001-2022.
+
 🌻 This GitHub is a combination of school projects and other things I find interesting! Take a look 
 
 📩 You can reach me on:

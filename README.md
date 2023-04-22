@@ -4,7 +4,7 @@
 
 💡 I’m interested in politics, political behavior, polling, education, inequality and other social issues. And DATA!
 
-🌱 I’m currently learning python, pandas, scraping, R, HTML and other coding tools for journalistic data analysis!
+🌱 I’m currently learning python, pandas, scraping, R, HTML, JavaScript and other coding tools for journalistic data analysis!
 
 🛠 I love building auto-scrapers and databases. Take a look at my continuously updating datasets of [European energy prices](https://github.com/laurabejder/european_energy_prices) and [Danish court cases](https://github.com/laurabejder/danish-court-cases) or this [database of the senate votes for all appointed U.S. Circuit Court Judges](https://github.com/laurabejder?tab=repositories) from 2001-2022.
 

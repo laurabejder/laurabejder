@@ -1,8 +1,8 @@
 ## ✨ Hi, I’m @laurabejder ✨
 
-📝 I am a Danish data journalist and current data journalism student at Columbia Graduate School of Journalism. 
+📝 I am a Danish data journalist. 
 
-💡 I’m interested in politics, political behavior, polling, education, inequality and other social issues. And DATA!
+💡 I’m interested in politics, political behavior, business, finance, inequality and other social issues. And DATA!
 
 🌱 I’m currently learning python, pandas, scraping, R, HTML, JavaScript and other coding tools for journalistic data analysis!
 
